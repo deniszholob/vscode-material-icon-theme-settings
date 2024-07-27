@@ -1,0 +1,61 @@
+{
+  // Editor Icon Theme
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.activeIconPack": "none",
+  "material-icon-theme.folders.associations": {
+    "scenes": "video",
+  },
+  "material-icon-theme.folders.customClones": [
+    {
+      "name": "components",
+      "folderNames": ["components"],
+      "base": "components",
+      "color": "blue-700"
+    },
+  ],
+  "material-icon-theme.files.associations": {},
+  "material-icon-theme.files.customClones": [
+    {
+      "name": "godot-component",
+      "fileExtensions": ["component.gd"],
+      "base": "godot",
+      "color": "blue-700"
+    },
+    {
+      "name": "godot-model",
+      "fileExtensions": ["model.gd"],
+      "base": "godot",
+      "color": "red-400"
+    },
+    {
+      "name": "godot-enum",
+      "fileExtensions": ["enum.gd"],
+      "base": "godot",
+      "color": "teal-400"
+    },
+    {
+      "name": "godot-util",
+      "fileExtensions": ["util.gd"],
+      "base": "godot",
+      "color": "light-green-600"
+    },
+    {
+      "name": "godot-mock",
+      "fileExtensions": ["mock.gd"],
+      "base": "godot",
+      "color": "brown-400"
+    },
+    {
+      "name": "godot-project",
+      "fileNames": ["project.godot"],
+      "base": "godot",
+      "color": "yellow-700"
+    },
+    {
+      "name": "godot-scenes",
+      "fileExtensions": ["tscn"],
+      "base": "godot",
+      "color": "orange-500"
+    },
+  ],
+}
